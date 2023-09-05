@@ -7,4 +7,8 @@
 6. Drag Sum of Cost and Sum of Profit  in the sum of revenue 
 7. Go to PivotTable Analyze>field,items, and set >you can rename, add formula(result is sum of CalculatedField)
 8. Filter>add Customer_Gender, you can see how much males and females generate amount.
-9. 
+9. Insert>Pivot table> choose existing file
+10. How to find the existing Worksheet location? (CreatePivottable) 
+**(ANSWER: RIGHT CLICK ON ANY EXCEL TAB.)**
+
+
